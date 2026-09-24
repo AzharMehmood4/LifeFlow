@@ -6,4 +6,3 @@ Habits & Streaks
 Goals & Milestones
 Finances & Budgets
 Time Tracking
-Journaling & Mood
